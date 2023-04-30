@@ -6,7 +6,7 @@ const Hero = () => {
         <nav className='flex justify-between items-center w-full mb-10 pt-3'>
             <img src={logo} alt='sum-logo' className='w-28 obje-contain'/>
             <button type="button"
-            onClick={() => window.open('https://github.com/')}
+            onClick={() => window.open('https://github.com/anubhav0821/Article-Summarizer')}
             className='black_btn'
             >
                 Github
