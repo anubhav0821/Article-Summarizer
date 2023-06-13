@@ -16,7 +16,7 @@ const Hero = () => {
         <br className='max-md:hidden'/> <span className='orange_gradient'>OpenAI GPT-4</span>
         </h1>
         <h2 className='desc'>
-        Summarize articles effortlessly with our innovative tool that leverages Chat GPT technology. Extract only the most important information from lengthy articles and enjoy clear and concise summaries.
+        Summarize articles effortlessly with our innovative tool that leverages Chat GPT technology. Extract the most important information from lengthy articles and enjoy clear and concise summaries created just for you.
         </h2>
     </header>
   )
